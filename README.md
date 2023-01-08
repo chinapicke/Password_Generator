@@ -14,13 +14,6 @@ Follow the prompts for password length between 10 and 64. You will be given opti
 
 ![Screenshot 2023-01-08 230900](https://user-images.githubusercontent.com/117565899/211207072-146bbae2-1e7e-45d1-ba65-3dd07973bd18.png)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits!
 
