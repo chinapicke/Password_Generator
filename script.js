@@ -135,8 +135,6 @@ else {
   alert("You have input an incorrect numerical number, please try again")
 }
 
-// if all characters is true, then we need to put it into the password, whilst using for loop to execute user password length selected
-
 
 // Didn't use this function as did not think I would need to 
 // Function for getting a random element from an array
