@@ -3,6 +3,7 @@
 ## Description
 
 Website to help users generate passwords with high security by randomising character types selected by users; numbers, lowercase, uppercase and special characters. User is also able to select password length between 10 and 64. These questions are asked using confirm() and prompt(). There is use functions, if statements, logicial conditions and use of for loops to help created the generated password. Javascript is also linked to HTML to allow user to be interactive with the websites button. 
+Contains HTML, CSS and Javascript.
 
 ## Installation
 
